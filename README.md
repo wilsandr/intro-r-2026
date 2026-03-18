@@ -39,7 +39,7 @@ Participants must bring their own laptop. Prior to the start of the workshop ple
 | 10:00a - 10:30a | Intro to Best Practices |  
 | 10:30a - 11:00a | Intro to RStudio and setting up projects |  
 | 11:00a - 11:10a | *Break* |  
-| 11:10a - 12:30p | A litt bit of unix, intro to version control, and git |  
+| 11:10a - 12:30p | A little bit of unix, intro to version control, and git |  
 | 12:30p - 1:30p | *Lunch* |
 | 1:30p - 2:15p | git practice session |
 | 2:15p - 3:00p | Intro to data types and structures in R |
