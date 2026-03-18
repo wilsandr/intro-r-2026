@@ -15,7 +15,19 @@ editor: visual
 5
 typeof(8.5)
 ```
+
 ```{r}
-"text test"
+a <- c(1, 2, 3)
+a
+c("a", "b", "c")
 ```
 
+```{r}
+#| label: setup
+source("training_source.R")
+```
+
+```{r}
+csv_path <- "../data/raw/presurvey_20260317.csv"
+survey_raw <- rio::import(csv_path)
+```
