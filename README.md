@@ -44,7 +44,7 @@ Participants must bring their own laptop. Prior to the start of the workshop ple
 | 1:30p - 2:15p | git practice session |
 | 2:15p - 3:00p | Intro to data types and structures in R |
 | 3:00p - 3:10p | *Break* |
-| 3:10p - 4:30p | Transforming data: import, view, filter |
+| 3:10p - 4:00p | Transforming data: import, view, filter |
 
 #### Thursday, March 19
 | Time | Topic |
@@ -55,7 +55,7 @@ Participants must bring their own laptop. Prior to the start of the workshop ple
 | 12:30p - 1:30p | *Lunch* |
 | 1:30p - 2:50p | Transforming data: joins, group, select, summarize |
 | 2:50p - 3:00p | *Break* |
-| 3:00p - 4:30p | Transforming data: stringr, regex |
+| 3:00p - 4:00p | Transforming data: stringr, regex |
 
 #### Friday, March 20
 | Time | Topic |
@@ -66,4 +66,4 @@ Participants must bring their own laptop. Prior to the start of the workshop ple
 | 12:30p - 1:30p | *Lunch* |
 | 1:30p - 2:50p | Special topic: TBD |
 | 2:50p - 3:00p | *Break* |
-| 3:00p - 4:30p | Special topic: TBD |
+| 3:00p - 4:00p | Special topic: TBD |
