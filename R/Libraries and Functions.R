@@ -19,6 +19,5 @@ speed_vol_fig <- clean_df |>
   geom_point()
 speed_vol_fig
 
-det_speed_figly <- ggplotly(speed_occ_fig)
-det_speed_figly
+
 
